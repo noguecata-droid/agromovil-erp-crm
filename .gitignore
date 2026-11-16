@@ -1,4 +1,4 @@
 node_modules/
-data.sqlite
+*.db
 npm-debug.log*
 .DS_Store

@@ -1,15 +1,13 @@
 {
   "name": "agro-movil-erp-crm",
   "version": "1.0.0",
-  "description": "Sistema ERP/CRM para Plantas de Empaque Agroexportador Móviles y Contenedorizadas (IaaS $0.15/kg)",
+  "description": "Agro Móvil ERP y CRM para Plantas de Empaque Agroexportador Móviles y Contenedorizadas (IaaS)",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.21.2",
-    "sqlite3": "^5.1.7",
-    "cors": "^2.8.5"
+    "sqlite3": "^5.1.7"
   }
 }
